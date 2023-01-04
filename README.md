@@ -1,14 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="p"> 
-  Hello! My name is Bernardo Raimundo. Due to a growing interest in data science I have decided to create a Github page to share my what I have been up to!
-  
-  In my profile you will find detailed projects, with different author references. These projects will be mostly related to concepts related to finance such as fraud detection, portfolio optimization and credit risk.
-  
-  <strong></strong><br>
-
-<p align="left">
-  💼 Programming Languages: <strong>Python</strong>
+<p align="justify"> 
+  Hello! My name is Bernardo Raimundo. Due to a growing interest in data science I have decided to create a Github page to share my what I have been up to! In my profile you will find detailed projects, with different author references. These projects will be mostly related to concepts related to finance such as fraud detection, portfolio optimization and credit risk.
+ 
 </p>
 
 <p align="left">
