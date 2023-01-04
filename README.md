@@ -1,12 +1,19 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="justify"> 
-  Hello! My name is Bernardo Raimundo. Due to a growing interest in data science I have decided to create a Github page to share my what I have been up to! In my profile you will find detailed projects, with different author references. These projects will be mostly related to concepts related to finance such as fraud detection, portfolio optimization and credit risk.
+Hello! My name is Bernardo Raimundo. Due to a growing interest in data science I have decided to create a Github page to share my what I have been up to! 
+In my profile you will find detailed projects, with different author references. These projects will be mostly related to concepts related to finance such as fraud detection, portfolio optimization and credit risk.
+  
+ </p> 
+  
+ <strong> Relevant Statistics: <strong>
+  
+ [![card](https://github-readme-stats.vercel.app/api?username=BernardoRaimundo&theme=default&show_icons=true)](https://github.com/BernardoRaimundo/github-readme-stats)
  
 </p>
 
 <p align="left">
-   Feel free to contact me on links the bellow: ⤵️
+   Feel free to contact me on the links the bellow: ⤵️
 </p>
 
 <p align="left">
