@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 <p align="justify"> 
 Hello! My name is Bernardo Raimundo. Due to a growing interest in data science I have decided to create a Github page to share my what I have been up to! 
