@@ -9,7 +9,7 @@ In my profile you will find detailed projects, with different author references.
 </p>
 
 <p align="left">
-   Feel free to contact me on the links the bellow: ⤵️
+   Feel free to contact me on the links bellow: ⤵️
 </p>
 
 <p align="left">
