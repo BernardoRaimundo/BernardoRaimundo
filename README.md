@@ -2,13 +2,9 @@
 
 <p align="justify"> 
 Hello! My name is Bernardo Raimundo. Due to a growing interest in data science I have decided to create a Github page to share my what I have been up to! 
-In my profile you will find detailed projects, with different author references. These projects will be mostly related to concepts related to finance such as fraud detection, portfolio optimization and credit risk.
+In my profile you will find detailed projects, with different author references. These projects will be mostly related to concepts related to finance such as fraud detection, portfolio optimization, credit risk among many others.
   
  </p> 
-  
- <strong> Relevant Statistics: <strong>
-  
- [![card](https://github-readme-stats.vercel.app/api?username=BernardoRaimundo&theme=default&show_icons=true)](https://github.com/BernardoRaimundo/github-readme-stats)
  
 </p>
 
