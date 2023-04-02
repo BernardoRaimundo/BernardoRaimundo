@@ -7,6 +7,7 @@ In my profile you will find detailed projects, with different author references.
  On going projects: 
  - Implementation of Bayesian Model Averaging in Credit Scoring Methods
  - Development of a time series analysis repo for stock price predictions
+ - Cluster based approach for risk parity portfolios
 
 </p> 
  
